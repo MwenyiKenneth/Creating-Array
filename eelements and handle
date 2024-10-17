@@ -1,0 +1,19 @@
+import java.until.Hashset;
+public class HashsetExample {
+ public static void
+main (string[] aargs) {
+  // creating a Hashset
+ Hashset<string>set=new Hashset<>();
+
+  //Adding elements
+set.add("Dog");
+set.add("Cat");
+set.add("Bird");
+set.add("Dog");
+// Duplicate
+
+// Displaying elements
+system.out.print("Hashset elements: " +  Set);
+         // Note: Duplicate " Dog" is not added.
+     }
+}
