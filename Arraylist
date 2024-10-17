@@ -1,0 +1,21 @@
+import java.until.ArrayList;
+Public class
+StoreAndDisplayArrayList{
+public static void
+main(string[] args) {
+   //Creating an ArrayList
+    ArrayList<string> fruits= new ArrayList<>();
+
+    // storing elements
+     fruits.add("Coconut");
+      fruits.add("Pineapple");
+      fruiuts.add("Grapes");
+
+      // Displaying elements
+        systems.out.println("fruits in the list:");
+         for (string fruit : fruits)
+{
+system.out.println(fruits);
+       }
+    }
+}
