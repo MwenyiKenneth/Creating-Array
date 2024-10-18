@@ -1,0 +1,21 @@
+Public class GenericMethodExample {
+
+// Generic method to print an array of any type
+   public static<T>void
+printArray(T[] array) {
+   for (T element: array) {
+
+ System.out.print(element +"");
+}
+public static void
+main(string[] arhs) {
+}
+public static void
+main(string[] args) {
+  //Test with interger array
+interger[]intArray=[1,2,3,4);
+printArray(intArray);
+  //Test with string array string[] stringArray=(Hello",World");
+printArray9stringArray);
+    }
+}
