@@ -1,0 +1,18 @@
+Use of HashMap to store key-value pairs and Access them;
+import java.until.HashMapExample {
+    Public static void
+    main(string[] args) {
+        //Creating a HashMap
+        HashMap<integer,string>map+new HashMap<>();
+
+           // storing key-value parts
+           map.put(1, "John");
+           map.put(2,"Jane");
+           map.put(3,"Tom");
+
+           //Accessing elements by key
+           system.out.println(value for key 2:' + map.get(2));
+             // Displaying all key-value pairs
+             system.out.println("HashMap contents: + map);
+                  }
+               }
